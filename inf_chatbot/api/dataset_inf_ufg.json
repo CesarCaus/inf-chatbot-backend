@@ -1,0 +1,20 @@
+[
+    {
+      "questions": ["O que é o INF?", "O que é o Instituto de Informática?", "Pode me explicar o que é o INF-UFG?"],
+      "answer": "O INF, ou Instituto de Informática, é uma unidade acadêmica da Universidade Federal de Goiás dedicada à excelência no ensino, pesquisa e extensão na área de computação."
+    },
+    {
+      "questions": ["Quantos professores trabalham no INF?", "Qual é o número de professores no Instituto?", "Quantos docentes há no INF?"],
+      "answer": "O INF conta com uma equipe de mais de 80 professores, a maioria com doutorado, proporcionando uma base sólida para o aprendizado e a pesquisa."
+    },
+    {
+      "questions": ["cursos","Quais cursos de graduação são oferecidos pelo INF?", "Quais são os cursos do Instituto de Informática?", "Que graduações estão disponíveis no INF?"],
+      "answer": "O INF oferece cursos de graduação em Ciência da Computação, Engenharia de Software, Inteligência Artificial e Sistemas de Informação."
+    },
+    {
+        "questions":["level 5", "level5", "O que é a Level5?", "O que significa Level 5?", "Pode explicar o que é Level 5?", "Qual é a definição de Level 5?", "O que envolve o conceito de Level 5?", "Você pode descrever o que é Level 5?", "O que representa a Level 5?", "Como você definiria Level 5?", "Quais são os aspectos de Level 5?", "O que abrange o termo Level 5?", "Qual a importância da Level 5?"],
+        "answer": "A Level 5 é a empresa júnior do INF, onde os alunos aplicam conhecimentos em computação e gestão."
+    }
+]
+
+
