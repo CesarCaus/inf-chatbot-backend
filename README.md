@@ -1,7 +1,7 @@
 # Documentação do Chatbot QA
 
 ## **Introdução**
-Este projeto é um chatbot baseado em um modelo de Perguntas e Respostas (**QA - Question Answering**) projetado para facilitar a vida dos estudantes do Instituto de Informática, auxiliando em atividades cotidianas. O chatbot utiliza a arquiterura BERT para processar perguntas em linguagem natural e fornecer respostas precisas, acessando um conjunto de dados pré-definido.
+Este projeto é um chatbot baseado em um modelo de Perguntas e Respostas (**QA - Question Answering**) projetado para facilitar a vida dos estudantes do Instituto de Informática, auxiliando em atividades cotidianas. O chatbot utiliza a arquitetura BERT para processar perguntas em linguagem natural e fornecer respostas precisas, acessando um conjunto de dados pré-definido.
 
 ---
 
