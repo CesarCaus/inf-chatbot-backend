@@ -115,14 +115,15 @@ Este projeto é um chatbot baseado em um modelo de Perguntas e Respostas (**QA -
 ### **Requisição POST:**
 ```json
 {
-  "text": "Onde é a sala do professor?"
+  "text": "Qual o email do professor Cássio?"
+  "type": "sent"
 }
 ```
 
 ### **Resposta:**
 ```json
 {
-  "text": "A sala do professor está no bloco A, sala 101.",
+  "text": "O email do professor Cássio é cassio@inf.ufg.br.",
   "type": "received"
 }
 ```
