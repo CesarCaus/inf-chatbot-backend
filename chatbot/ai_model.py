@@ -23,7 +23,7 @@ for item in dataset:
 def buscar_resposta_com_contexto(pergunta_usuario):
     pergunta_embedding = embedder.encode(pergunta_usuario)
     maior_similaridade = 0.5
-    resposta_relevante = "Desculpe, não consegui encontrar uma resposta adequada."
+    resposta_relevante = "Desculpe, não consegui encontrar uma resposta adequada, poderia ser mais especifico(a)?"
 
     # Avaliar similaridade com cada pergunta alternativa no dataset
     for question_embeddings, answer in dataset_embeddings:

@@ -1,20 +1,1055 @@
 [
+  {
+      "questions": ["O que é o INF?", "O que é o Instituto de Informática?", "Pode me explicar o que é o INF-UFG?", "Qual é o INF?", "Qual é o Instituto de Informática?", "Como é o INF?", "O que faz o INF?", "Como é o Instituto de Informática?"],
+      "answer": "O INF, ou Instituto de Informática, é uma unidade acadêmica da Universidade Federal de Goiás (UFG) que se dedica à formação de profissionais e à realização de pesquisas avançadas na área da computação. Ele é conhecido pela busca constante de excelência no ensino, pesquisa e extensão, contribuindo para o desenvolvimento científico e tecnológico do país."
+  },
+  {
+      "questions": ["Quais cursos de graduação são oferecidos pelo INF?", "Quais são os cursos do Instituto de Informática?", "Que graduações estão disponíveis no INF?", "O que o INF oferece em graduação?", "Quais cursos tem o INF?", "Que cursos posso fazer no INF?", "O INF tem cursos de graduação?", "Quais cursos de graduação existem no INF?"],
+      "answer": "O INF oferece quatro cursos de graduação: Ciência da Computação, Engenharia de Software, Inteligência Artificial e Sistemas de Informação. Esses cursos são projetados para proporcionar uma formação abrangente e de alta qualidade, preparando os alunos para os desafios do mercado de trabalho e para a realização de pesquisas inovadoras."
+  },
+  {
+      "questions": ["Quantos professores trabalham no INF?", "Qual é o número de professores no Instituto?", "Quantos docentes há no INF?", "Quantos professores tem o INF?", "Quantos professores são no INF?", "Qual é a equipe de docentes do INF?", "Quantos docentes há no Instituto de Informática?", "O INF tem muitos professores?"],
+      "answer": "O INF conta com uma equipe de mais de 80 professores altamente qualificados, sendo que a maioria possui doutorado. Esse corpo docente altamente especializado oferece aos alunos uma base sólida para o aprendizado e para a realização de pesquisas de ponta, além de manter um ambiente de ensino e aprendizado de alta qualidade."
+  },
+  {
+      "questions": ["O que é a Level 5?", "O que significa Level 5?", "Pode explicar o que é Level 5?", "O que envolve o conceito de Level 5?", "Como você definiria Level 5?", "Quais são os aspectos de Level 5?", "O que abrange o termo Level 5?", "Qual a importância da Level 5?", "O que faz a Level 5?", "Como é a Level 5?", "Por que a Level 5 é importante?"],
+      "answer": "A Level 5 é a empresa júnior do INF, formada e gerida por alunos do instituto. Essa empresa júnior permite que os estudantes apliquem seus conhecimentos em computação e gestão em projetos práticos, desenvolvendo habilidades importantes para suas futuras carreiras. É uma oportunidade para os alunos ganharem experiência prática e contribuírem para a solução de problemas reais, fortalecendo o vínculo entre teoria e prática."
+  },
+  {
+      "questions": ["O que é a Apoema?", "Pode me explicar sobre a Apoema?", "O que envolve a Apoema?", "O que faz a Apoema?", "Como funciona a Apoema?", "Quais são as atividades da Apoema?", "Apoema é parte do INF?", "Qual é a função da Apoema?", "O que a Apoema oferece?", "O que é a Apoema no INF?"],
+      "answer": "A Apoema é uma iniciativa do INF que explora o apoio acadêmico e a orientação profissional dos alunos. Ela promove programas e atividades que auxiliam os estudantes na sua formação, desenvolvimento de habilidades práticas e integração ao mercado de trabalho. É uma plataforma para capacitar os alunos com competências além do currículo acadêmico, preparando-os para desafios futuros."
+  },
+  {
+      "questions": ["O que é a CEIA?", "O que faz a CEIA?", "O que é a função da CEIA?", "Como funciona a CEIA?", "Quais são as atividades da CEIA?", "A CEIA é parte do INF?", "Qual é a importância da CEIA?", "CEIA realiza projetos de pesquisa?", "O que envolve a CEIA?", "O que a CEIA oferece?"],
+      "answer": "A CEIA, ou Centro de Estudos e Inovações em Inteligência Artificial, é um órgão do INF focado na disponibilização e transferência de tecnologias baseadas em IA. Ela desenvolve projetos e pesquisas inovadoras, promovendo a integração de conhecimento científico com aplicações práticas e colaborando para o avanço da tecnologia no Brasil."
+  },
+  {
+      "questions": ["O que é o Comunica INF?", "Qual é a função do Comunica INF?", "O que faz o Comunica INF?", "Como funciona o Comunica INF?", "Quais são as atividades do Comunica INF?", "O que envolve o Comunica INF?", "O que o Comunica INF oferece?", "O que é o papel do Comunica INF?", "Comunica INF mantém a comunidade informada?", "Como é o Comunica INF?"],
+      "answer": "O Comunica INF é uma plataforma que mantém a comunidade do INF informada com as últimas notícias e atualizações. Ele presta serviços comunicacionais, como a divulgação de eventos, novidades acadêmicas e iniciativas importantes, mantendo um canal de interação entre os alunos, professores e demais membros do instituto."
+  },
+  {
+      "questions": ["O que é a Fábrica de Software?", "Qual é a função da Fábrica de Software?", "O que faz a Fábrica de Software?", "Como funciona a Fábrica de Software?", "Quais são as atividades da Fábrica de Software?", "A Fábrica de Software realiza projetos práticos?", "O que envolve a Fábrica de Software?", "A Fábrica de Software é parte do INF?", "O que a Fábrica de Software oferece?", "Como é a Fábrica de Software?"],
+      "answer": "A Fábrica de Software é um projeto do INF que participa de projetos práticos e aplicados, oferecendo aos alunos a oportunidade de trabalhar em desenvolvimento de software real. Essa integração entre teoria e prática promove um ambiente de aprendizado dinâmico, onde os estudantes podem aplicar suas habilidades em situações do mundo real e adquirir experiência valiosa."
+  },
+  {
+      "questions": ["O que é o Núcleo de Recursos Computacionais?", "O que faz o NRC?", "Qual é a função do NRC?", "Como funciona o NRC?", "Quais são as atividades do NRC?", "O que envolve o NRC?", "O NRC é parte do INF?", "O que o NRC oferece?", "Como é o NRC?", "Qual é a importância do NRC?"],
+      "answer": "O Núcleo de Recursos Computacionais (NRC) é responsável pela gestão e manutenção dos recursos computacionais avançados do INF. Ele garante que as infraestruturas de TI estejam sempre atualizadas e operando com eficiência, apoiando tanto a pesquisa acadêmica quanto o ensino no instituto."
+  },
+  {
+      "questions": ["Qual é a missão do INF?", "O que é a missão do Instituto de Informática?", "Pode me explicar a missão do INF?", "Qual é o propósito do INF?", "O que o INF busca com sua missão?", "Qual é a principal missão do INF?", "O INF tem uma missão específica?", "Qual é o objetivo do INF?", "A missão do INF é...?", "Como é a missão do INF?"],
+      "answer": "A missão do INF é produzir e socializar conhecimento em Computação e Tecnologia da Informação, formando cidadãos capazes de contribuir com o desenvolvimento científico, humano e social do país. Através da formação de qualidade e da realização de pesquisas, o INF busca impactar positivamente a sociedade."
+  },
+  {
+      "questions": ["Qual é a visão do INF?", "O que é a visão do Instituto de Informática?", "Pode me explicar a visão do INF?", "Qual é o objetivo do INF para o futuro?", "Qual é a principal visão do INF?", "A visão do INF é...", "O INF tem uma visão específica?", "O que o INF busca com sua visão?", "Como é a visão do INF?", "O que representa a visão do INF?"],
+      "answer": "A visão do INF é estar entre as principais instituições de ensino superior em Computação e Tecnologia da Informação no Brasil. A instituição busca alcançar a excelência por meio da indissociabilidade entre ensino, pesquisa e extensão, formando profissionais altamente qualificados."
+  },
+  {
+      "questions": ["Quais são os valores do INF?", "O que o INF valoriza?", "Pode me explicar os valores do Instituto de Informática?", "Quais são os princípios do INF?", "Quais são os valores mais importantes do INF?", "O INF tem valores específicos?", "O que significa os valores do INF?", "Como os valores do INF são aplicados?", "O que representa os valores do INF?", "Quais são as crenças do INF?"],
+      "answer": "Os valores do INF incluem ética, profissionalismo, respeito à diversidade, comprometimento individual e de equipes, interação, colaboração, cooperação, inovação, criatividade, evolução, excelência, qualidade e relevância social. Esses valores são a base para todas as atividades do instituto, refletindo seu compromisso com a integridade, o aprendizado e o impacto positivo na sociedade."
+  }, 
+  {
+    "questions": [
+        "diretor",
+        "nome do diretor",
+        "responsável pela direção",
+        "função do diretor",
+        "cargo do diretor",
+        "líder do Instituto",
+        "diretor do INF",
+        "diretor INF-UFG"
+    ],
+    "answer": "O diretor do INF é o Prof. Dr. Eliomar Araújo de Lima. Ele lidera e gerencia todas as atividades do Instituto de Informática da UFG, sendo responsável por sua administração e desenvolvimento estratégico."
+},
+{
+    "questions": [
+        "vice-diretor",
+        "nome do vice-diretor",
+        "auxílio na direção",
+        "função do vice-diretor",
+        "cargo do vice-diretor",
+        "ajuda na direção",
+        "vice-diretor do INF",
+        "vice-diretor INF-UFG"
+    ],
+    "answer": "O vice-diretor do INF é o Prof. Dr. Iwens Gervasio Sene Junior. Ele assiste o diretor em suas funções, assumindo responsabilidades administrativas e acadêmicas importantes para a gestão do Instituto."
+},
+{
+    "questions": [
+        "coordenador administrativo",
+        "nome do coordenador administrativo",
+        "responsável pela coordenação administrativa",
+        "função do coordenador administrativo",
+        "cargo do coordenador administrativo",
+        "coordenação administrativa",
+        "coordenador do INF",
+        "papel do coordenador administrativo"
+    ],
+    "answer": "O coordenador administrativo do INF é Enio Perez Rodrigues Barbosa. Ele gerencia as operações administrativas do Instituto, assegurando o bom andamento das atividades internas e a eficiência dos processos."
+},
+{
+    "questions": [
+        "coordenador Ciência da Computação",
+        "nome do coordenador do curso de Ciência da Computação",
+        "responsável pelo curso de Ciência da Computação",
+        "função do coordenador de Ciência da Computação",
+        "cargo do coordenador de Ciência da Computação",
+        "coordenador do curso de Ciência da Computação",
+        "liderança do curso de Ciência da Computação",
+        "papel do coordenador de Ciência da Computação"
+    ],
+    "answer": "O coordenador do curso de Ciência da Computação é o Prof. Dr. Leonardo Andrade Ribeiro. Ele é responsável pela supervisão acadêmica do curso, assegurando qualidade no ensino, pesquisa e interação com os alunos."
+},
+{
+    "questions": [
+        "vice-coordenador Ciência da Computação",
+        "nome da vice-coordenadora do curso de Ciência da Computação",
+        "auxílio na coordenação do curso de Ciência da Computação",
+        "função da vice-coordenadora de Ciência da Computação",
+        "cargo da vice-coordenadora de Ciência da Computação",
+        "papel da vice-coordenadora do curso de Ciência da Computação",
+        "responsável por ajudar na coordenação",
+        "quem apoia a coordenação do curso de Ciência da Computação"
+    ],
+    "answer": "A vice-coordenadora do curso de Ciência da Computação é a Profa. Dra. Elisângela Silva Dias. Ela auxilia o coordenador na administração do curso, colaborando na organização de atividades e no apoio aos alunos."
+},
+{
+    "questions": [
+        "coordenador Engenharia de Software",
+        "nome do coordenador do curso de Engenharia de Software",
+        "responsável pelo curso de Engenharia de Software",
+        "função do coordenador de Engenharia de Software",
+        "cargo do coordenador de Engenharia de Software",
+        "coordenador do curso de Engenharia de Software",
+        "liderança do curso de Engenharia de Software",
+        "papel do coordenador de Engenharia de Software"
+    ],
+    "answer": "A coordenadora do curso de Engenharia de Software é a Profa. Dra. Nádia Félix Felipe da Silva. Ela coordena o curso, supervisionando atividades acadêmicas, projetos de pesquisa e a formação dos alunos."
+},
+{
+    "questions": [
+        "vice-coordenador Engenharia de Software",
+        "nome do vice-coordenador do curso de Engenharia de Software",
+        "auxílio na coordenação do curso de Engenharia de Software",
+        "função do vice-coordenador de Engenharia de Software",
+        "cargo do vice-coordenador de Engenharia de Software",
+        "papel do vice-coordenador do curso de Engenharia de Software",
+        "responsável por ajudar na coordenação",
+        "quem apoia a coordenação do curso de Engenharia de Software"
+    ],
+    "answer": "O vice-coordenador do curso de Engenharia de Software é o Prof. Dr. Renato de Freitas Bulcão Neto. Ele apoia a coordenadora na gestão do curso, colaborando em questões acadêmicas e administrativas."
+},
+{
+    "questions": [
+        "coordenador Inteligência Artificial",
+        "nome do coordenador do curso de Inteligência Artificial",
+        "responsável pelo curso de Inteligência Artificial",
+        "função do coordenador de Inteligência Artificial",
+        "cargo do coordenador de Inteligência Artificial",
+        "coordenador do curso de Inteligência Artificial",
+        "liderança do curso de Inteligência Artificial",
+        "papel do coordenador de Inteligência Artificial"
+    ],
+    "answer": "O coordenador do curso de Inteligência Artificial é o Prof. Dr. Anderson da Silva Soares. Ele gerencia o curso, conduzindo a elaboração do currículo e promovendo a pesquisa na área de IA."
+},
+{
+    "questions": [
+        "vice-coordenador Inteligência Artificial",
+        "nome do vice-coordenador do curso de Inteligência Artificial",
+        "auxílio na coordenação do curso de Inteligência Artificial",
+        "função do vice-coordenador de Inteligência Artificial",
+        "cargo do vice-coordenador de Inteligência Artificial",
+        "papel do vice-coordenador do curso de Inteligência Artificial",
+        "responsável por ajudar na coordenação",
+        "quem apoia a coordenação do curso de Inteligência Artificial"
+    ],
+    "answer": "O vice-coordenador do curso de Inteligência Artificial é o Prof. Dr. Vinicius Sebba Patto. Ele auxilia o coordenador em atividades acadêmicas e administrativas, além de apoiar a implementação de novos projetos."
+},
+{
+    "questions": [
+        "coordenador Sistemas de Informação",
+        "nome do coordenador do curso de Sistemas de Informação",
+        "responsável pelo curso de Sistemas de Informação",
+        "função do coordenador de Sistemas de Informação",
+        "cargo do coordenador de Sistemas de Informação",
+        "coordenador do curso de Sistemas de Informação",
+        "liderança do curso de Sistemas de Informação",
+        "papel do coordenador de Sistemas de Informação"
+    ],
+    "answer": "O coordenador do curso de Sistemas de Informação é o Prof. Dr. Wanderley de Souza Alencar. Ele supervisiona todas as atividades do curso, coordenando a grade curricular e promovendo a integração entre teoria e prática."
+},
+{
+    "questions": [
+        "vice-coordenador Sistemas de Informação",
+        "nome do vice-coordenador do curso de Sistemas de Informação",
+        "auxílio na coordenação do curso de Sistemas de Informação",
+        "função do vice-coordenador de Sistemas de Informação",
+        "cargo do vice-coordenador de Sistemas de Informação",
+        "papel do vice-coordenador do curso de Sistemas de Informação",
+        "responsável por ajudar na coordenação",
+        "quem apoia a coordenação do curso de Sistemas de Informação"
+    ],
+    "answer": "O vice-coordenador do curso de Sistemas de Informação é o Prof. Dr. Vagner José do Sacramento Rodrigues. Ele apoia o coordenador na administração do curso e no acompanhamento das atividades acadêmicas."
+},   
+{
+  "questions": [
+    "qual é o email do professor Adailton Ferreira de Araújo?",
+    "como contatar o professor Adailton por email?",
+    "email do docente Adailton Ferreira de Araújo",
+    "Adailton email"
+  ],
+  "answer": "O email do professor Adailton Ferreira de Araújo é adailton@inf.ufg.br."
+},
+{
+  "questions": [
+    "quais são as áreas de atuação do professor Adailton Ferreira de Araújo?",
+    "em que áreas o professor Adailton trabalha?",
+    "especialidades do docente Adailton Ferreira de Araújo",
+    "Adailton especialidades"
+  ],
+  "answer": "As áreas de atuação do professor Adailton Ferreira de Araújo incluem Engenharia de Software."
+},
+{
+  "questions": [
+    "em qual sala está o professor Adailton Ferreira de Araújo?",
+    "onde encontro o professor Adailton no instituto?",
+    "sala do professor Adailton Ferreira de Araújo",
+    "Adailton sala"
+  ],
+  "answer": "O professor Adailton Ferreira de Araújo atende na sala 209."
+},
+{
+  "questions": [
+    "qual é o email da professora Adriana Silveira de Souza?",
+    "como contatar a professora Adriana por email?",
+    "email da docente Adriana Silveira de Souza",
+    "Adriana email"
+  ],
+  "answer": "O email da professora Adriana Silveira de Souza é adriana@inf.ufg.br."
+},
+{
+  "questions": [
+    "quais são as áreas de atuação da professora Adriana Silveira de Souza?",
+    "em que áreas a professora Adriana trabalha?",
+    "especialidades da docente Adriana Silveira de Souza",
+    "Adriana especialidades"
+  ],
+  "answer": "As áreas de atuação da professora Adriana Silveira de Souza incluem Qualidade de Software, Processos de Software e Engenharia de Software."
+},
+{
+  "questions": [
+    "em qual sala está a professora Adriana Silveira de Souza?",
+    "onde encontro a professora Adriana no instituto?",
+    "sala da professora Adriana Silveira de Souza",
+    "Adriana sala"
+  ],
+  "answer": "A professora Adriana Silveira de Souza atende na sala 117."
+},
+{
+  "questions": [
+    "qual é o email do professor Aldo André Díaz Salazar?",
+    "como contatar o professor Aldo por email?",
+    "email do docente Aldo André Díaz Salazar",
+    "Aldo email"
+  ],
+  "answer": "O email do professor Aldo André Díaz Salazar é aldo@inf.ufg.br."
+},
+{
+  "questions": [
+    "quais são as áreas de atuação do professor Aldo André Díaz Salazar?",
+    "em que áreas o professor Aldo trabalha?",
+    "especialidades do docente Aldo André Díaz Salazar",
+    "Aldo especialidades"
+  ],
+  "answer": "As áreas de atuação do professor Aldo André Díaz Salazar incluem Sensor Fusion, Target Tracking, Robotics, Computer Vision, Precision Agriculture, Artificial Intelligence, Statistical Signal Processing, and Audio Signal Processing."
+},
+{
+  "questions": [
+    "em qual sala está o professor Aldo André Díaz Salazar?",
+    "onde encontro o professor Aldo no instituto?",
+    "sala do professor Aldo André Díaz Salazar",
+    "Aldo sala"
+  ],
+  "answer": "O professor Aldo André Díaz Salazar atende na sala 210."
+},
+{
+  "questions": [
+    "qual é o email do professor Alessandro Cruvinel Machado de Araújo?",
+    "como contatar o professor Alessandro por email?",
+    "email do docente Alessandro Cruvinel Machado de Araújo",
+    "Alessandro email"
+  ],
+  "answer": "O email do professor Alessandro Cruvinel Machado de Araújo é alessandro@inf.ufg.br."
+},
+{
+  "questions": [
+    "quais são as áreas de atuação do professor Alessandro Cruvinel Machado de Araújo?",
+    "em que áreas o professor Alessandro trabalha?",
+    "especialidades do docente Alessandro Cruvinel Machado de Araújo",
+    "Alessandro especialidades"
+  ],
+  "answer": "As áreas de atuação do professor Alessandro Cruvinel Machado de Araújo incluem Engenharia de Software e Gerência de Projetos."
+},
+{
+  "questions": [
+    "em qual sala está o professor Alessandro Cruvinel Machado de Araújo?",
+    "onde encontro o professor Alessandro no instituto?",
+    "sala do professor Alessandro Cruvinel Machado de Araújo",
+    "Alessandro sala"
+  ],
+  "answer": "O professor Alessandro Cruvinel Machado de Araújo atende na sala 117."
+},
+{
+  "questions": [
+    "qual é o email da professora Ana Cláudia Bastos Loureiro Monção?",
+    "como contatar a professora Ana Cláudia Bastos Loureiro Monção por email?",
+    "email da docente Ana Cláudia Bastos Loureiro Monção",
+    "Ana Cláudia Loureiro Monção email"
+  ],
+  "answer": "O email da professora Ana Cláudia Bastos Loureiro Monção é anaclaudia@inf.ufg.br."
+},
+{
+  "questions": [
+    "quais são as áreas de atuação da professora Ana Cláudia Bastos Loureiro Monção?",
+    "em que áreas a professora Ana Cláudia Bastos Loureiro Monção trabalha?",
+    "especialidades da docente Ana Cláudia Bastos Loureiro Monção",
+    "Ana Cláudia Loureiro Monção áreas de atuação"
+  ],
+  "answer": "As áreas de atuação da professora Ana Cláudia Bastos Loureiro Monção incluem Engenharia de Software, Banco de Dados, Inteligência Computacional e Mineração de Dados."
+},
+{
+  "questions": [
+    "qual é o email da professora Ana Cláudia?",
+    "como contatar a professora Ana Cláudia por email?",
+    "email da docente Ana Cláudia",
+    "Ana Cláudia email"
+  ],
+  "answer": "O email da professora Ana Cláudia Bastos Loureiro Monção é anaclaudia@inf.ufg.br."
+},
+{
+  "questions": [
+    "quais são as áreas de atuação da professora Ana Cláudia?",
+    "em que áreas a professora Ana Cláudia trabalha?",
+    "especialidades da docente Ana Cláudia",
+    "Ana Cláudia áreas de atuação"
+  ],
+  "answer": "As áreas de atuação da professora Ana Cláudia Bastos Loureiro Monção incluem Engenharia de Software, Banco de Dados, Inteligência Computacional e Mineração de Dados."
+},
+{
+  "questions": [
+    "em qual sala está a professora Ana Cláudia?",
+    "onde encontro a professora Ana Cláudia no instituto?",
+    "sala da professora Ana Cláudia",
+    "Ana Cláudia sala"
+  ],
+  "answer": "A professora Ana Cláudia Bastos Loureiro Monção atende na sala 117."
+},
+{
+  "questions": [
+    "qual é o email do professor Anderson?",
+    "como contatar o professor Anderson por email?",
+    "email do docente Anderson",
+    "Anderson email"
+  ],
+  "answer": "O email do professor Anderson da Silva Soares é anderson@inf.ufg.br."
+},
+{
+  "questions": [
+    "quais são as áreas de atuação do professor Anderson?",
+    "em que áreas o professor Anderson trabalha?",
+    "especialidades do docente Anderson",
+    "Anderson áreas de atuação"
+  ],
+  "answer": "As áreas de atuação do professor Anderson da Silva Soares incluem Aprendizado de Máquina (Machine Learning), Redes Neurais Artificiais Profundas (Deep Learning) e Reconhecimento de Padrões."
+},
+{
+  "questions": [
+    "em qual sala está o professor Anderson?",
+    "onde encontro o professor Anderson no instituto?",
+    "sala do professor Anderson",
+    "Anderson sala"
+  ],
+  "answer": "O professor Anderson da Silva Soares atende na sala 100."
+},
+{
+  "questions": [
+    "qual é o email do professor Andre Luiz?",
+    "como contatar o professor Andre Luiz por email?",
+    "email do docente Andre Luiz",
+    "Andre Luiz email"
+  ],
+  "answer": "O email do professor Andre Luiz Moura é andreluiz@inf.ufg.br."
+},
+{
+  "questions": [
+    "quais são as áreas de atuação do professor Andre Luiz?",
+    "em que áreas o professor Andre Luiz trabalha?",
+    "especialidades do docente Andre Luiz",
+    "Andre Luiz áreas de atuação"
+  ],
+  "answer": "As áreas de atuação do professor Andre Luiz Moura incluem Metodologias e Técnicas da Computação, Gerência de Configuração de Software, Geometria Computacional, Engenharia de Software e Algoritmos."
+},
+{
+  "questions": [
+    "em qual sala está o professor Andre Luiz?",
+    "onde encontro o professor Andre Luiz no instituto?",
+    "sala do professor Andre Luiz",
+    "Andre Luiz sala"
+  ],
+  "answer": "O professor Andre Luiz Moura atende na sala 117."
+},
+{
+  "questions": [
+    "qual é o email do professor Antonio?",
+    "como contatar o professor Antonio por email?",
+    "email do docente Antonio",
+    "Antonio email"
+  ],
+  "answer": "O email do professor Antônio Carlos de Oliveira Júnior é antonio@inf.ufg.br."
+},
+{
+  "questions": [
+    "quais são as áreas de atuação do professor Antonio?",
+    "em que áreas o professor Antonio trabalha?",
+    "especialidades do docente Antonio",
+    "Antonio áreas de atuação"
+  ],
+  "answer": "As áreas de atuação do professor Antônio Carlos de Oliveira Júnior incluem Redes de Computadores e Comunicações."
+},
+{
+  "questions": [
+    "em qual sala está o professor Antonio?",
+    "onde encontro o professor Antonio no instituto?",
+    "sala do professor Antonio",
+    "Antonio sala"
+  ],
+  "answer": "O professor Antônio Carlos de Oliveira Júnior atende na sala 213."
+},
+{
+  "questions": [
+    "qual é o email do professor Arlindo?",
+    "como contatar o professor Arlindo por email?",
+    "email do docente Arlindo",
+    "Arlindo email"
+  ],
+  "answer": "O email do professor Arlindo Rodrigues Galvão Filho é arlindo@inf.ufg.br."
+},
+{
+  "questions": [
+    "quais são as áreas de atuação do professor Arlindo?",
+    "em que áreas o professor Arlindo trabalha?",
+    "especialidades do docente Arlindo",
+    "Arlindo áreas de atuação"
+  ],
+  "answer": "As áreas de atuação do professor Arlindo Rodrigues Galvão Filho incluem Machine Learning, Deep Learning e Reconhecimento de Padrões."
+},
+{
+  "questions": [
+    "em qual sala está o professor Arlindo?",
+    "onde encontro o professor Arlindo no instituto?",
+    "sala do professor Arlindo",
+    "Arlindo sala"
+  ],
+  "answer": "O professor Arlindo Rodrigues Galvão Filho atende na sala 111."
+},
+{
+  "questions": [
+    "qual é o email do professor Bruno?",
+    "como contatar o professor Bruno por email?",
+    "email do docente Bruno",
+    "Bruno email"
+  ],
+  "answer": "O email do professor Bruno Oliveira Silvestre é brunoos@inf.ufg.br."
+},
+{
+  "questions": [
+    "quais são as áreas de atuação do professor Bruno?",
+    "em que áreas o professor Bruno trabalha?",
+    "especialidades do docente Bruno",
+    "Bruno áreas de atuação"
+  ],
+  "answer": "As áreas de atuação do professor Bruno Oliveira Silvestre incluem Redes e Sistemas Distribuídos."
+},
+{
+  "questions": [
+    "em qual sala está o professor Bruno?",
+    "onde encontro o professor Bruno no instituto?",
+    "sala do professor Bruno",
+    "Bruno sala"
+  ],
+  "answer": "O professor Bruno Oliveira Silvestre atende na sala 234."
+},
+{
+  "questions": [
+    "qual é o email do professor Cassio?",
+    "como contatar o professor Cassio por email?",
+    "email do docente Cassio",
+    "Cassio email"
+  ],
+  "answer": "O email do professor Cássio Leonardo Rodrigues é cassio@inf.ufg.br."
+},
+{
+  "questions": [
+    "quais são as áreas de atuação do professor Cassio?",
+    "em que áreas o professor Cassio trabalha?",
+    "especialidades do docente Cassio",
+    "Cassio áreas de atuação"
+  ],
+  "answer": "As áreas de atuação do professor Cássio Leonardo Rodrigues incluem Engenharia de Software."
+},
+{
+  "questions": [
+    "em qual sala está o professor Cassio?",
+    "em qual sala está o professor Cassio atende?",
+    "qual a sala do professor Cassio?",
+    "onde encontro o professor Cassio no instituto?",
+    "sala do professor Cassio",
+    "Cassio sala"
+  ],
+  "answer": "O professor Cássio Leonardo Rodrigues atende na sala 231."
+},
+{
+  "questions": [
+    "qual é o email do professor Cedric?",
+    "como contatar o professor Cedric por email?",
+    "email do docente Cedric",
+    "Cedric email"
+  ],
+  "answer": "O email do professor Cedric Luiz de Carvalho é cedric@inf.ufg.br."
+},
+{
+  "questions": [
+    "quais são as áreas de atuação do professor Cedric?",
+    "em que áreas o professor Cedric trabalha?",
+    "especialidades do docente Cedric",
+    "Cedric áreas de atuação"
+  ],
+  "answer": "As áreas de atuação do professor Cedric Luiz de Carvalho incluem Web Semântica, Inteligência Artificial Aplicada e Desenvolvimento de Sistemas para a Web."
+},
+{
+  "questions": [
+    "em qual sala está o professor Cedric?",
+    "onde encontro o professor Cedric no instituto?",
+    "sala do professor Cedric",
+    "Cedric sala"
+  ],
+  "answer": "O professor Cedric Luiz de Carvalho atende na sala 234."
+},
+  {
+    "questions": [
+      "qual é o email do professor Celso?",
+      "como contatar o professor Celso por email?",
+      "email do docente Celso",
+      "Celso email"
+    ],
+    "answer": "O email do professor Celso Gonçalves Camilo Junior é celso@inf.ufg.br."
+  },
+  {
+    "questions": [
+      "quais são as áreas de atuação do professor Celso?",
+      "em que áreas o professor Celso trabalha?",
+      "especialidades do docente Celso",
+      "Celso áreas de atuação"
+    ],
+    "answer": "As áreas de atuação do professor Celso Gonçalves Camilo Junior incluem Redes Sociais, Inteligência Computacional (Redes Neurais e Algoritmo Genético), Inteligência Artificial Distribuída, Metaheurísticas e Otimização."
+  },
+  {
+    "questions": [
+      "em qual sala está o professor Celso?",
+      "onde encontro o professor Celso no instituto?",
+      "sala do professor Celso",
+      "Celso sala"
+    ],
+    "answer": "O professor Celso Gonçalves Camilo Junior atende na sala 211."
+  },
+  {
+    "questions": [
+      "qual é o email da professora Cristiane?",
+      "como contatar a professora Cristiane por email?",
+      "email da docente Cristiane",
+      "Cristiane email"
+    ],
+    "answer": "O email da professora Cristiane Bastos Rocha Ferreira é cristiane@inf.ufg.br."
+  },
+  {
+    "questions": [
+      "quais são as áreas de atuação da professora Cristiane?",
+      "em que áreas a professora Cristiane trabalha?",
+      "especialidades da docente Cristiane",
+      "Cristiane áreas de atuação"
+    ],
+    "answer": "As áreas de atuação da professora Cristiane Bastos Rocha Ferreira incluem Reconhecimento de Padrões e Processamento de Imagens."
+  },
+  {
+    "questions": [
+      "em qual sala está a professora Cristiane?",
+      "onde encontro a professora Cristiane no instituto?",
+      "sala da professora Cristiane",
+      "Cristiane sala"
+    ],
+    "answer": "A professora Cristiane Bastos Rocha Ferreira atende na sala 132."
+  },
+  {
+    "questions": [
+      "qual é o email do professor Daniel?",
+      "como contatar o professor Daniel por email?",
+      "email do docente Daniel",
+      "Daniel email"
+    ],
+    "answer": "O email do professor Daniel Lima Ventura é daniel@inf.ufg.br."
+  },
+  {
+    "questions": [
+      "quais são as áreas de atuação do professor Daniel?",
+      "em que áreas o professor Daniel trabalha?",
+      "especialidades do docente Daniel",
+      "Daniel áreas de atuação"
+    ],
+    "answer": "As áreas de atuação do professor Daniel Lima Ventura incluem Lógicas e Semântica de Programas, Lambda calculus e Substituições Explícitas, Teoria de Tipos."
+  },
+  {
+    "questions": [
+      "em qual sala está o professor Daniel?",
+      "onde encontro o professor Daniel no instituto?",
+      "sala do professor Daniel",
+      "Daniel sala"
+    ],
+    "answer": "O professor Daniel Lima Ventura atende na sala 106."
+  },
+  {
+    "questions": [
+      "qual é o email da professora Deborah?",
+      "como contatar a professora Deborah por email?",
+      "email da docente Deborah",
+      "Deborah email"
+    ],
+    "answer": "O email da professora Deborah Silva Alves Fernandes é deborah@inf.ufg.br."
+  },
+  {
+    "questions": [
+      "quais são as áreas de atuação da professora Deborah?",
+      "em que áreas a professora Deborah trabalha?",
+      "especialidades da docente Deborah",
+      "Deborah áreas de atuação"
+    ],
+    "answer": "As áreas de atuação da professora Deborah Silva Alves Fernandes incluem Aprendizado de Máquina, Sistemas de Apoio à Tomada de Decisão, Descoberta de Conhecimento em Grandes Bases de Dados, Visão Computacional e Compiladores."
+  },
+  {
+    "questions": [
+      "em qual sala está a professora Deborah?",
+      "onde encontro a professora Deborah no instituto?",
+      "sala da professora Deborah",
+      "Deborah sala"
+    ],
+    "answer": "A professora Deborah Silva Alves Fernandes atende na sala 105."
+  },
+  {
+    "questions": [
+      "qual é o email do professor Deller?",
+      "como contatar o professor Deller por email?",
+      "email do docente Deller",
+      "Deller email"
+    ],
+    "answer": "O email do professor Deller James Ferreira é deller@inf.ufg.br."
+  },
+  {
+    "questions": [
+      "quais são as áreas de atuação do professor Deller?",
+      "em que áreas o professor Deller trabalha?",
+      "especialidades do docente Deller",
+      "Deller áreas de atuação"
+    ],
+    "answer": "As áreas de atuação do professor Deller James Ferreira incluem Informática e Educação."
+  },
+  {
+    "questions": [
+      "em qual sala está o professor Deller?",
+      "onde encontro o professor Deller no instituto?",
+      "sala do professor Deller",
+      "Deller sala"
+    ],
+    "answer": "O professor Deller James Ferreira atende na sala 229."
+  },
+  {
+    "questions": [
+      "qual é o email da professora Diane?",
+      "como contatar a professora Diane por email?",
+      "email da docente Diane",
+      "Diane email"
+    ],
+    "answer": "O email da professora Diane Castonguay é diane@inf.ufg.br."
+  },
+  {
+    "questions": [
+      "quais são as áreas de atuação da professora Diane?",
+      "em que áreas a professora Diane trabalha?",
+      "especialidades da docente Diane",
+      "Diane áreas de atuação"
+    ],
+    "answer": "As áreas de atuação da professora Diane Castonguay incluem Algoritmos, Teoria dos Grafos e Teoria de Representações de Álgebras."
+  },
+  {
+    "questions": [
+      "em qual sala está a professora Diane?",
+      "onde encontro a professora Diane no instituto?",
+      "sala da professora Diane",
+      "Diane sala"
+    ],
+    "answer": "A professora Diane Castonguay atende na sala 221."
+  },
+  {
+    "questions": [
+      "qual é o email do professor Dirson?",
+      "como contatar o professor Dirson por email?",
+      "email do docente Dirson",
+      "Dirson email"
+    ],
+    "answer": "O email do professor Dirson Santos de Campos é dirson@inf.ufg.br."
+  },
+  {
+    "questions": [
+      "quais são as áreas de atuação do professor Dirson?",
+      "em que áreas o professor Dirson trabalha?",
+      "especialidades do docente Dirson",
+      "Dirson áreas de atuação"
+    ],
+    "answer": "As áreas de atuação do professor Dirson Santos de Campos incluem Engenharia de Software e Banco de Dados."
+  },
+  {
+    "questions": [
+      "em qual sala está o professor Dirson?",
+      "onde encontro o professor Dirson no instituto?",
+      "sala do professor Dirson",
+      "Dirson sala"
+    ],
+    "answer": "O professor Dirson Santos de Campos atende na sala 128."
+  },
+  {
+    "questions": [
+      "qual é o email do professor Edison?",
+      "como contatar o professor Edison por email?",
+      "email do docente Edison",
+      "Edison email"
+    ],
+    "answer": "O email do professor Edison Andrade Martins Morais é edison@inf.ufg.br."
+  },
+  {
+    "questions": [
+      "quais são as áreas de atuação do professor Edison?",
+      "em que áreas o professor Edison trabalha?",
+      "especialidades do docente Edison",
+      "Edison áreas de atuação"
+    ],
+    "answer": "As áreas de atuação do professor Edison Andrade Martins Morais incluem Gestão e Governança de TI, Gerenciamento de Serviços de TI, Gerenciamento de Processos de Negócio e Engenharia de Software (requisitos e processos de software)."
+  },
+  {
+    "questions": [
+      "em qual sala está o professor Edison?",
+      "onde encontro o professor Edison no instituto?",
+      "sala do professor Edison",
+      "Edison sala"
+    ],
+    "answer": "O professor Edison Andrade Martins Morais atende na sala 117."
+  },
+  {
+    "questions": [
+      "qual é o email do professor Edmundo?",
+      "como contatar o professor Edmundo por email?",
+      "email do docente Edmundo",
+      "Edmundo email"
+    ],
+    "answer": "O email do professor Edmundo Sérgio Spoto é edmundo@inf.ufg.br."
+  },
+  {
+    "questions": [
+      "quais são as áreas de atuação do professor Edmundo?",
+      "em que áreas o professor Edmundo trabalha?",
+      "especialidades do docente Edmundo",
+      "Edmundo áreas de atuação"
+    ],
+    "answer": "As áreas de atuação do professor Edmundo Sérgio Spoto incluem Engenharia de Software e Banco de Dados: Validação e Verificação e Testes de Software e Aplicações de Banco de Dados."
+  },
+  {
+    "questions": [
+      "em qual sala está o professor Edmundo?",
+      "onde encontro o professor Edmundo no instituto?",
+      "sala do professor Edmundo",
+      "Edmundo sala"
+    ],
+    "answer": "O professor Edmundo Sérgio Spoto atende na sala 218."
+  },
     {
-      "questions": ["O que é o INF?", "O que é o Instituto de Informática?", "Pode me explicar o que é o INF-UFG?"],
-      "answer": "O INF, ou Instituto de Informática, é uma unidade acadêmica da Universidade Federal de Goiás dedicada à excelência no ensino, pesquisa e extensão na área de computação."
+      "questions": [
+        "qual é o email da professora Elisângela?",
+        "como contatar a professora Elisângela por email?",
+        "email da docente Elisângela",
+        "Elisângela email"
+      ],
+      "answer": "O email da professora Elisângela Silva Dias é elisangela@inf.ufg.br."
     },
     {
-      "questions": ["Quantos professores trabalham no INF?", "Qual é o número de professores no Instituto?", "Quantos docentes há no INF?"],
-      "answer": "O INF conta com uma equipe de mais de 80 professores, a maioria com doutorado, proporcionando uma base sólida para o aprendizado e a pesquisa."
+      "questions": [
+        "quais são as áreas de atuação da professora Elisângela?",
+        "em que áreas a professora Elisângela trabalha?",
+        "especialidades da docente Elisângela",
+        "Elisângela áreas de atuação"
+      ],
+      "answer": "As áreas de atuação da professora Elisângela Silva Dias incluem Algoritmos, Grafos, Estudos de gênero na Computação e suas tecnologias, Informática e Educação."
     },
     {
-      "questions": ["cursos","Quais cursos de graduação são oferecidos pelo INF?", "Quais são os cursos do Instituto de Informática?", "Que graduações estão disponíveis no INF?"],
-      "answer": "O INF oferece cursos de graduação em Ciência da Computação, Engenharia de Software, Inteligência Artificial e Sistemas de Informação."
+      "questions": [
+        "em qual sala está a professora Elisângela?",
+        "onde encontro a professora Elisângela no instituto?",
+        "sala da professora Elisângela",
+        "Elisângela sala"
+      ],
+      "answer": "A professora Elisângela Silva Dias atende na sala 219."
     },
     {
-        "questions":["level 5", "level5", "O que é a Level5?", "O que significa Level 5?", "Pode explicar o que é Level 5?", "Qual é a definição de Level 5?", "O que envolve o conceito de Level 5?", "Você pode descrever o que é Level 5?", "O que representa a Level 5?", "Como você definiria Level 5?", "Quais são os aspectos de Level 5?", "O que abrange o termo Level 5?", "Qual a importância da Level 5?"],
-        "answer": "A Level 5 é a empresa júnior do INF, onde os alunos aplicam conhecimentos em computação e gestão."
-    }
+      "questions": [
+        "qual é o email da professora Erika?",
+        "como contatar a professora Erika por email?",
+        "email da docente Erika",
+        "Erika email"
+      ],
+      "answer": "O email da professora Erika Morais Martins Coelho é erikamorais@inf.ufg.br."
+    },
+    {
+      "questions": [
+        "quais são as áreas de atuação da professora Erika?",
+        "em que áreas a professora Erika trabalha?",
+        "especialidades da docente Erika",
+        "Erika áreas de atuação"
+      ],
+      "answer": "As áreas de atuação da professora Erika Morais Martins Coelho incluem Análise de Algoritmos, Complexidade de Computação e Teoria dos Grafos."
+    },
+    {
+      "questions": [
+        "em qual sala está a professora Erika?",
+        "onde encontro a professora Erika no instituto?",
+        "sala da professora Erika",
+        "Erika sala"
+      ],
+      "answer": "A professora Erika Morais Martins Coelho atende na sala 220."
+    },
+    {
+      "questions": [
+        "qual é o email da professora Evellin?",
+        "como contatar a professora Evellin por email?",
+        "email da docente Evellin",
+        "Evellin email"
+      ],
+      "answer": "O email da professora Evellin Cristine Souza Cardoso é evellin@inf.ufg.br."
+    },
+    {
+      "questions": [
+        "quais são as áreas de atuação da professora Evellin?",
+        "em que áreas a professora Evellin trabalha?",
+        "especialidades da docente Evellin",
+        "Evellin áreas de atuação"
+      ],
+      "answer": "As áreas de atuação da professora Evellin Cristine Souza Cardoso incluem Sistemas de Informação."
+    },
+    {
+      "questions": [
+        "em qual sala está a professora Evellin?",
+        "onde encontro a professora Evellin no instituto?",
+        "sala da professora Evellin",
+        "Evellin sala"
+      ],
+      "answer": "A professora Evellin Cristine Souza Cardoso atende na sala 127."
+    },
+    {
+      "questions": [
+        "qual é o email do professor Fábio?",
+        "como contatar o professor Fábio por email?",
+        "email do docente Fábio",
+        "Fábio email"
+      ],
+      "answer": "O email do professor Fábio Moreira Costa é fmc@inf.ufg.br."
+    },
+    {
+      "questions": [
+        "quais são as áreas de atuação do professor Fábio?",
+        "em que áreas o professor Fábio trabalha?",
+        "especialidades do docente Fábio",
+        "Fábio áreas de atuação"
+      ],
+      "answer": "As áreas de atuação do professor Fábio Moreira Costa incluem Middleware e Sistemas Distribuídos."
+    },
+    {
+      "questions": [
+        "em qual sala está o professor Fábio?",
+        "onde encontro o professor Fábio no instituto?",
+        "sala do professor Fábio",
+        "Fábio sala"
+      ],
+      "answer": "O professor Fábio Moreira Costa atende na sala 235."
+    },
+    {
+      "questions": [
+        "qual é o email do professor Fábio Nogueira?",
+        "como contatar o professor Fábio Nogueira por email?",
+        "email do docente Fábio Nogueira",
+        "Fábio Nogueira email"
+      ],
+      "answer": "O email do professor Fábio Nogueira de Lucena é fabio@inf.ufg.br."
+    },
+    {
+      "questions": [
+        "quais são as áreas de atuação do professor Fábio Nogueira?",
+        "em que áreas o professor Fábio Nogueira trabalha?",
+        "especialidades do docente Fábio Nogueira",
+        "Fábio Nogueira áreas de atuação"
+      ],
+      "answer": "As áreas de atuação do professor Fábio Nogueira de Lucena incluem Engenharia de Software, Design e construção de Software, Saúde Digital."
+    },
+    {
+      "questions": [
+        "em qual sala está o professor Fábio Nogueira?",
+        "onde encontro o professor Fábio Nogueira no instituto?",
+        "sala do professor Fábio Nogueira",
+        "Fábio Nogueira sala"
+      ],
+      "answer": "O professor Fábio Nogueira de Lucena atende na sala 130."
+    },
+    {
+      "questions": [
+        "qual é o email do professor Fabrízzio?",
+        "como contatar o professor Fabrízzio por email?",
+        "email do docente Fabrízzio",
+        "Fabrízzio email"
+      ],
+      "answer": "O email do professor Fabrízzio Alphonsus Alves de Melo Nunes Soares é fabrizzio@inf.ufg.br."
+    },
+    {
+      "questions": [
+        "quais são as áreas de atuação do professor Fabrízzio?",
+        "em que áreas o professor Fabrízzio trabalha?",
+        "especialidades do docente Fabrízzio",
+        "Fabrízzio áreas de atuação"
+      ],
+      "answer": "As áreas de atuação do professor Fabrízzio Alphonsus Alves de Melo Nunes Soares incluem Visão Computacional, Processamento de Imagens e Sinais, Estrutura de Dados e Arquitetura de Software."
+    },
+    {
+      "questions": [
+        "em qual sala está o professor Fabrízzio?",
+        "onde encontro o professor Fabrízzio no instituto?",
+        "sala do professor Fabrízzio",
+        "Fabrízzio sala"
+      ],
+      "answer": "O professor Fabrízzio Alphonsus Alves de Melo Nunes Soares atende na sala 135."
+    },
+    {
+      "questions": [
+        "qual é o email do professor Fernando?",
+        "como contatar o professor Fernando por email?",
+        "email do docente Fernando",
+        "Fernando email"
+      ],
+      "answer": "O email do professor Fernando Marques Federson é federson@ufg.br."
+    },
+    {
+      "questions": [
+        "quais são as áreas de atuação do professor Fernando?",
+        "em que áreas o professor Fernando trabalha?",
+        "especialidades do docente Fernando",
+        "Fernando áreas de atuação"
+      ],
+      "answer": "As áreas de atuação do professor Fernando Marques Federson incluem Modelagem e Otimização de Sistemas."
+    },
+    {
+      "questions": [
+        "em qual sala está o professor Fernando?",
+        "onde encontro o professor Fernando no instituto?",
+        "sala do professor Fernando",
+        "Fernando sala"
+      ],
+      "answer": "O professor Fernando Marques Federson atende na sala 215."
+    },
+    {
+      "questions": [
+        "qual é o email do professor Gilmar?",
+        "como contatar o professor Gilmar por email?",
+        "email do docente Gilmar",
+        "Gilmar email"
+      ],
+      "answer": "O email do professor Gilmar Ferreira Arantes é gilmar@inf.ufg.br."
+    },
+    {
+      "questions": [
+        "quais são as áreas de atuação do professor Gilmar?",
+        "em que áreas o professor Gilmar trabalha?",
+        "especialidades do docente Gilmar",
+        "Gilmar áreas de atuação"
+      ],
+      "answer": "As áreas de atuação do professor Gilmar Ferreira Arantes incluem Teste de Software."
+    },
+    {
+      "questions": [
+        "em qual sala está o professor Gilmar?",
+        "onde encontro o professor Gilmar no instituto?",
+        "sala do professor Gilmar",
+        "Gilmar sala"
+      ],
+      "answer": "O professor Gilmar Ferreira Arantes atende na sala 117."
+    },
+      {
+        "questions": [
+          "o que é o estágio curricular?",
+          "quais são as etapas para realizar um estágio curricular?",
+          "como funciona o processo de estágio no INF?"
+        ],
+        "answer": "O estágio curricular é um mecanismo de aperfeiçoamento dos conhecimentos adquiridos pelo aluno durante o curso de graduação. Ele é teórico-prático e visa proporcionar aos alunos a vivência da realidade profissional, por meio de experiências técnico-científicas, culturais e de relacionamento humano. Os estágios são de caráter não obrigatório."
+      },
+      {
+        "questions": [
+          "como procurar um estágio no INF?",
+          "quais são os primeiros passos para encontrar um estágio?"
+        ],
+        "answer": "O aluno pode procurar um estágio não obrigatório de acordo com seus interesses e necessidades. Depois de encontrar um estágio, deve verificar se a empresa ou agente integrador possui convênio formalizado com a UFG e seguir o processo para formalização do convênio."
+      },
+      {
+        "questions": [
+          "qual é o procedimento para formalizar um estágio?",
+          "quais são as etapas para formalizar um estágio na UFG?"
+        ],
+        "answer": "O aluno deve verificar se a empresa tem convênio com a UFG, escolher um professor orientador, abrir um peticionamento no SEI para formalizar o contrato de estágio, assinar o Plano de Atividades e o Termo de Compromisso de Estágio (TCE), e finalmente obter a assinatura final da Diretoria da Central de Estágios."
+      },
+      {
+        "questions": [
+          "quais documentos são necessários durante o estágio?",
+          "que relatórios o aluno deve preencher durante o estágio?"
+        ],
+        "answer": "O aluno deve preencher um Relatório Parcial de Atividades a cada 6 meses e um Relatório Final de Atividades ao término do estágio. Em caso de desligamento antecipado ou prorrogação, o aluno deverá preencher o Formulário de Desligamento ou o Termo Aditivo."
+      },
+      {
+        "questions": [
+          "quais são os coordenadores de estágio de Ciência da Computação?",
+          "quem coordena os estágios em Ciência da Computação?"
+        ],
+        "answer": "O coordenador de estágio de Ciência da Computação é o Prof. Dr. Bruno Oliveira Silvestre, e o vice-coordenador é o Prof. Dr. Daniel Lima Ventura. O email para contato é estagio-cc@inf.ufg.br."
+      },
+      {
+        "questions": [
+          "quais são os coordenadores de estágio de Engenharia de Software?",
+          "quem coordena os estágios em Engenharia de Software?"
+        ],
+        "answer": "O coordenador de estágio de Engenharia de Software é o Prof. Dr. Edmundo Sérgio Spoto, e a vice-coordenadora é a Profa. Dra. Luciana de Oliveira Berretta."
+      },
+      {
+        "questions": [
+          "quais são os coordenadores de estágio de Inteligência Artificial?",
+          "quem coordena os estágios em Inteligência Artificial?"
+        ],
+        "answer": "A coordenadora de estágio de Inteligência Artificial é a Profa. Dra. Telma Woerle de Lima Soares, e o vice-coordenador é o Prof. Dr. Aldo André Díaz Salazar."
+      },
+      {
+        "questions": [
+          "quais são os coordenadores de estágio de Sistemas de Informação?",
+          "quem coordena os estágios em Sistemas de Informação?"
+        ],
+        "answer": "A coordenadora de estágio de Sistemas de Informação é a Profa. Dra. Evellin Cristine Souza Cardoso, e o vice-coordenador é o Prof. Me. Nivaldo Pereira de Morais Júnior."
+      }
+    
+  
 ]
-
-
