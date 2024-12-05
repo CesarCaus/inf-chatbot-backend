@@ -37,8 +37,8 @@ Este projeto é um chatbot baseado em um modelo de Perguntas e Respostas (**QA -
 ```json
 [
   {
-    "questions": ["Onde fica o laboratório?", "Qual é a localização do laboratório?"],
-    "answer": "O laboratório está localizado no bloco B, sala 204."
+    "questions": ["Onde fica o laboratório 154?", "Qual é a localização do laboratório 154?"],
+    "answer": "O laboratório está localizado no primeiro andar, no final do corredor aonde fica o bebedouro."
   }
 ]
 ```
