@@ -81,16 +81,11 @@ Este projeto é um chatbot baseado em um modelo de Perguntas e Respostas (**QA -
 ### **Instalação**
 1. Clone o repositório:
    ```bash
-   git clone <URL_DO_REPOSITORIO>
+   git clone https://github.com/CesarCaus/inf-chatbot-backend.git
    ```
 2. Instale as dependências:
    ```bash
    pip install -r requirements.txt
-   ```
-3. Configure o banco de dados e execute as migrações:
-   ```bash
-   python manage.py makemigrations
-   python manage.py migrate
    ```
 4. Execute o servidor local:
    ```bash
@@ -111,7 +106,7 @@ Este projeto é um chatbot baseado em um modelo de Perguntas e Respostas (**QA -
 - **Integração com APIs Externas:** Para obter informações em tempo real, como horários de aulas e eventos.
 - **Aprendizado Contínuo:** Atualizar o dataset automaticamente com novas perguntas e respostas frequentes.
 - **Suporte Multilíngue:** Permitir interações em outros idiomas.
-- **Interface de Usuário:** Desenvolver um frontend amigável para interação com o chatbot.
+- **Banco de Dados** Integrar um banco de dados para registrar usuários e salvar histórico.
 
 ---
 
