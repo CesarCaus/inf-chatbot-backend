@@ -83,9 +83,9 @@ Este projeto é um chatbot baseado em um modelo de Perguntas e Respostas (**QA -
    ```bash
    git clone https://github.com/CesarCaus/inf-chatbot-backend.git
    ```
-2. Instale as dependências:
+2. Ative o Ambiente Virtual:
    ```bash
-   pip install -r requirements.txt
+   venv\Scripts\activate   
    ```
 4. Execute o servidor local:
    ```bash
